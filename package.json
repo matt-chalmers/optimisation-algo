@@ -19,9 +19,7 @@
   },
   "homepage": "https://github.com/matt-chalmers/optimisation-algo#readme",
   "dependencies": {
-    "config": "^3.1.0",
     "lodash": "^4.17.11",
-    "winston": "^3.2.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
