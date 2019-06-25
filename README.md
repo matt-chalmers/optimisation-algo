@@ -1,5 +1,5 @@
 # Optimisation Algo
-A collection of optimisation algorithms
+A Node.js collection of optimisation algorithms
 
 # Algorithms
 
